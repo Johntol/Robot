@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Robot</string>
+
+    <string name="send">发送</string>
+	<string-array name="welcome_word">
+	    <item>欢迎你</item>
+	    <item>Hello</item>
+	    <item>Hello1</item>
+	    <item>Hello2</item>
+	    <item>Hello3</item>
+	</string-array>
+</resources>
